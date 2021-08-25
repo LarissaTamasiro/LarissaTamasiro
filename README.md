@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, eu sou a Lari!
+###### Acabei de chegar neste mundo de TI. Espero aprender bastante coisa no GitHub! :beginner: 
+
+- 🎂 27 anos 
+- 👩 Brasileira, *uchinanchu* (うちなんちゅ) 
+- 📚 Análise e Desenvolvimento de Sistemas em FATEC São Paulo (4/6)  
+- 🔴🟢 Deuteranômala
 
 <!--
 **LarissaTamasiro/LarissaTamasiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

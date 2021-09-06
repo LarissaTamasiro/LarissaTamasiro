@@ -1,3 +1,7 @@
-*github_profile.gif* frames by [Teina's picrew.me image maker](https://picrew.me/image_maker/407340)
-
-LinkedIn and Outlook icons by <a href="https://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel Perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+- *github_profile.gif* frames by [Teina's picrew.me image maker](https://picrew.me/image_maker/407340)
+- Excel icon by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+- MySQL icon by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+- LinkedIn icon by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
+- Outlook icon by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel Perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
+- PowerBI icon by <a href="https://github.com/microsoft/">Microsoft</a>
+- Python icon by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>

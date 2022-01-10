@@ -8,7 +8,6 @@ Atualmente possuo grande interesse na área de Ciência de Dados. Tenho muito a 
 
 <div align="center" style="display:inline-block">
 <img height="32em" width="32em" title="Icon by Pixel perfect from www.flaticon.com" src="profile/excel.png">
-<img height="32em" width="32em" title="Icon by Those icons from www.flaticon.com" src="profile/mysql.png">
 <img height="32em" width="32em" title="Icon by Microsoft" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/PNG/PowerBI.png">
 <img height="32em" width="32em" title="Icon by Freepik from www.flaticon.com" src="profile/python.png">
 </div>
@@ -21,7 +20,7 @@ Atualmente possuo grande interesse na área de Ciência de Dados. Tenho muito a 
 #### Contato
 <div style="display:inline-block">
 <img height="16em" width="16em" title="Icon by Freepik from www.flaticon.com" src="profile/linkedin.png">
-<a href="https://www.linkedin.com/in/larissa-makiya-tamasiro-366320154/">Larissa Makiya Tamasiro</a><br/>
+<a href="https://www.linkedin.com/in/larissa-makiya-tamasiro/">Larissa Makiya Tamasiro</a><br/>
 <img height="16em" width="16em" title="Icon by Pixel perfect from www.flaticon.com" src="profile/outlook.png">
 <a href="mailto:larissa.tamasiro@fatec.sp.gov.br">larissa.tamasiro@fatec.sp.gov.br</a>
 </div>

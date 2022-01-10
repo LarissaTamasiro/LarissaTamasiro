@@ -3,7 +3,7 @@
 
 ### Oi, eu sou a Larissa!
 
-Atualmente possuo grande interesse na área de Ciência de Dados. Tenho muito a aprender ainda e espero que o GitHub seja uma boa plataforma para tal!
+Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero que o GitHub seja uma boa plataforma para tal.
 </div>
 
 <div align="center" style="display:inline-block">

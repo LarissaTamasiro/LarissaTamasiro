@@ -1,5 +1,5 @@
 <div align="left" style="display:inline-block">
-<img align="right" height="200em" width="200em" src="https://github.com/LarissaTamasiro/LarissaTamasiro/blob/dafef785d6e4c4288c2a31b94c236ef8da091727/profile/github_profile.gif">
+<img align="right" height="300em" width="300em" src="profile/github_profile_2.gif" alt="caricatura animada">
 
 ### Oi, eu sou a Larissa!
 
@@ -14,7 +14,7 @@ Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero
   
 #### Trivialidades sobre mim
 - Sou brasileira, etnicamente *uchinanchu* (うちなんちゅ) 
-- [Deuteranômala](https://www.researchgate.net/profile/Ana-Calvo-10/publication/309004343/figure/fig4/AS:443889548042241@1482842923126/Figura-11-Simulacao-da-visao-dos-tricromatas-anomalos-com-deuteranomalia-placa.png)
+- [Deuteranômala](profile/deuteranomalia.png)
 - Idiomas: **English**, *aprendendo o básico de* Français, 한국어, 日本語
 
 #### Contato

@@ -1,5 +1,5 @@
 <div align="left" style="display:inline-block">
-<img align="right" height="300em" width="300em" src="profile/github_profile_2.gif" alt="caricatura animada">
+<img align="right" height="250em" width="250em" src="profile/github_profile_2.gif" title="caricatura feita em https://picrew.me/image_maker/597326/" alt="caricatura animada">
 
 ### Oi, eu sou a Larissa!
 

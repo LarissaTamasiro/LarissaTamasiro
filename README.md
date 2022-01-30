@@ -5,12 +5,6 @@
 
 Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero que o GitHub seja uma boa plataforma para tal.
 </div>
-
-<div align="center" style="display:inline-block">
-<img height="32em" width="32em" title="Icon by Pixel perfect from www.flaticon.com" src="profile/excel.png">
-<img height="32em" width="32em" title="Icon by Microsoft" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/PNG/PowerBI.png">
-<img height="32em" width="32em" title="Icon by Freepik from www.flaticon.com" src="profile/python.png">
-</div>
   
 #### Trivialidades sobre mim
 - Sou brasileira, etnicamente *uchinanchu* (うちなんちゅ) 
@@ -24,3 +18,8 @@ Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero
 <img height="16em" width="16em" title="Icon by Pixel perfect from www.flaticon.com" src="profile/outlook.png">
 <a href="mailto:larissa.tamasiro@fatec.sp.gov.br">larissa.tamasiro@fatec.sp.gov.br</a>
 </div>
+
+[DataCamp](https://www.datacamp.com/profile/lmtamasiro)
+[HackerRank](https://www.hackerrank.com/larissa_tamasiro)
+[Kaggle](https://www.kaggle.com/lmtamasiro)
+

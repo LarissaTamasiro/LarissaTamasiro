@@ -19,7 +19,7 @@ Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero
 <a href="mailto:larissa.tamasiro@fatec.sp.gov.br">larissa.tamasiro@fatec.sp.gov.br</a>
 </div>
 
-[DataCamp](https://www.datacamp.com/profile/lmtamasiro)
-[HackerRank](https://www.hackerrank.com/larissa_tamasiro)
-[Kaggle](https://www.kaggle.com/lmtamasiro)
+- [DataCamp](https://www.datacamp.com/profile/lmtamasiro)
+- [HackerRank](https://www.hackerrank.com/larissa_tamasiro)
+- [Kaggle](https://www.kaggle.com/lmtamasiro)
 

@@ -9,7 +9,7 @@ Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero
 #### Trivialidades sobre mim
 - Sou brasileira, etnicamente *uchinanchu* (うちなんちゅ) 
 - [Deuteranômala](profile/deuteranomalia.png)
-- Idiomas: **English**, *aprendendo o básico de* Français, 한국어, 日本語
+- Idiomas: **English**, Español, *aprendendo o básico de* 한국어, 日本語
 
 #### Contato
 <div style="display:inline-block">
@@ -20,6 +20,3 @@ Atualmente tentando encontrar meu caminho! Tenho muito a aprender ainda e espero
 </div>
 
 - [DataCamp](https://www.datacamp.com/profile/lmtamasiro)
-- [HackerRank](https://www.hackerrank.com/larissa_tamasiro)
-- [Kaggle](https://www.kaggle.com/lmtamasiro)
-
